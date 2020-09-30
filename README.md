@@ -5,7 +5,7 @@ In nonlinear support vector machine classification, observations are recast to a
 `svm_compare.py` is compatible with python 3
 
 # Usage
-`svm_compare.py` is most easily applied directly from the command line. Format your data in a .csv file (as in the sample data provided in `[./data](./data)`), and in the terminal simply call: 
+`svm_compare.py` is most easily applied directly from the command line. Format your data in a .csv file (as in the sample data provided in [./data](./data)), and in the terminal simply call: 
 ```
 python main.py <path_to_dataset>
 ```
